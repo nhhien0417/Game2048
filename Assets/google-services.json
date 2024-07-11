@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922736413952",
+    "project_id": "game-2048-bc76d",
+    "storage_bucket": "game-2048-bc76d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922736413952:android:e56e0420d640272e0677e5",
+        "android_client_info": {
+          "package_name": "nguyenhoanghien.mocademy.game2048"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBiBMzmVMkE9gf_eutADaet_gYO5Mc0SM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
